@@ -4,7 +4,7 @@ I'm a passionate self-taught full stack web developer from India.
 
 - 🌱 I’m currently learning GraphQL & Typescript
 
-**Languages and tools that I'm familiar with** _(I may have gotten carried away with putting shiny logos on my profile lol)_
+**Languages and tools that I'm familiar with:** _(I may have gotten carried away with putting shiny logos on my profile lol)_
 <br />
 
 **Frontend**<br />
@@ -23,6 +23,7 @@ I'm a passionate self-taught full stack web developer from India.
 **Backend**<br />
 <img height="40" src="https://cdn.svgporn.com/logos/python.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/django.svg">
+<img height="40" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png">
 <img height="40" src="https://cdn.svgporn.com/logos/graphql.svg">
 
 **Databases**<br />
