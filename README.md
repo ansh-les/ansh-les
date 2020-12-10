@@ -11,6 +11,7 @@ I'm a passionate self-taught full stack web developer from India.
 <img height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/css-3.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="40" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/react.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/material-ui.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/nextjs.svg">
