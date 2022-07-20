@@ -2,7 +2,7 @@
 
 I'm a passionate self-taught full stack web developer from India.
 
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🌱 I’m currently learning Mobile Development using Flutter
 
 **Languages and tools that I'm familiar with:** _(I may have gotten carried away with putting shiny logos on my profile lol)_
 <br />
